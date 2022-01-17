@@ -1,2 +1,2 @@
-# javaScript30Days
+# JavaScript30Days
  
