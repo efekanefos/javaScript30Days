@@ -57,28 +57,38 @@ body {
 }
 
 #hourHand {
-  background: red;
+  background: #001f2b;
   width: 25%;
   margin-left: 25%;
 }
 #hourHand::after {
-  background: red;
+  background: #001f2b;
 }
 #minHand {
-  background: white;
+  background: #daeaf7;
   width: 40%;
   margin-left: 10%;
 }
 #minHand::after {
-  background: white;
+  background: #daeaf7;
 }
 #secondHand {
-  background: black;
+  background: #32fdfd;
   width: 45%;
   margin-left: 5%;
 }
 #secondHand::after {
-  background: black;
+  background: #32fdfd;
+}
+.centerDot {
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  background-color: #000522;
+  position: absolute;
+  top: 51%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .clockNumber {
