@@ -26,8 +26,12 @@
 
 ## City & State Search App
 
-* Demo: https://jsclockapp0.netlify.app
+* Demo: https://searchcitystate.netlify.app/
+
+![image](https://user-images.githubusercontent.com/54044105/150112802-bd0947ef-1ccb-4020-84cf-ec9be0aa6ef1.png)
 
 ## Canvas Drawing App
 
-* Demo: https://jsclockapp0.netlify.app
+* Demo: https://canvasdrawingapp.netlify.app
+
+![Ekran Alıntısı](https://user-images.githubusercontent.com/54044105/150113286-14890ea5-c7e9-498b-8c53-3475a6750c36.PNG)
