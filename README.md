@@ -17,3 +17,15 @@
 * Demo: https://cssvariablechanger.netlify.app
 
 ![image](https://user-images.githubusercontent.com/54044105/149791744-96074229-3eb9-4123-a20b-ddb34e5e31cb.png)
+
+## Flex Panel Image Gallery
+
+* Demo: https://jsclockapp0.netlify.app
+
+## City & State Search App
+
+* Demo: https://jsclockapp0.netlify.app
+
+## Canvas Drawing App
+
+* Demo: https://jsclockapp0.netlify.app
