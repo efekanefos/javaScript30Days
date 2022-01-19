@@ -20,7 +20,9 @@
 
 ## Flex Panel Image Gallery
 
-* Demo: https://jsclockapp0.netlify.app
+* Demo: https://flexpanelgalleryapp.netlify.app/
+
+![image](https://user-images.githubusercontent.com/54044105/150112250-e4263cee-5f6e-47a0-83c3-e107421a6850.png)
 
 ## City & State Search App
 
