@@ -1,0 +1,91 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 10px;
+  background: #ffc600;
+}
+
+.photobooth {
+  background: white;
+  max-width: 100rem;
+  margin: 2rem auto;
+  border-radius: 2px;
+  position: relative;
+}
+
+/*clearfix*/
+.photobooth:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.photo {
+  width: 100%;
+  float: left;
+}
+
+.controls button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ffc600;
+  outline: none;
+  border: 1px solid gray;
+  box-shadow: 0 0 5px gray;
+  border-bottom-right-radius: 50%;
+  cursor: pointer;
+}
+
+.controls button i {
+  font-size: 2.5rem;
+  padding: 0.5rem;
+}
+
+.player {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 200px;
+}
+
+/*
+  Strip!
+*/
+
+.strip {
+  padding: 2rem;
+  background-color: #ffc600;
+}
+
+.strip img {
+  width: 100px;
+  overflow-x: scroll;
+  padding: 0.8rem 0.8rem 2.5rem 0.8rem;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+  background: white;
+}
+
+.strip a:nth-child(5n + 1) img {
+  transform: rotate(10deg);
+}
+.strip a:nth-child(5n + 2) img {
+  transform: rotate(-2deg);
+}
+.strip a:nth-child(5n + 3) img {
+  transform: rotate(8deg);
+}
+.strip a:nth-child(5n + 4) img {
+  transform: rotate(-11deg);
+}
+.strip a:nth-child(5n + 5) img {
+  transform: rotate(12deg);
+}
